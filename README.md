@@ -2,9 +2,9 @@
 
 ## Introduction
 
-* This React project provides some frequent used components. This one is 'Comments Box' functionality most seen in form/blog discussion sections.
+* This React project provides some frequently used components. This one is the 'Comments Box' functionality most seen in form/blog discussion sections.
 
-* It's designed to be a fundational template for web developers looking to quickly customize to fit specific styling and functionality needs. 
+* It's designed to be a foundational template for web developers looking to quickly customize to fit specific styling and functionality needs. 
 
 ### Features 
 
@@ -18,11 +18,11 @@
 
 ![Component pic](https://github.com/idonthav/React-Componnets/blob/main/images/comments%20box.png?raw=true)
 
-## How to use this reo?
+## How to use this repo?
 
-[x] Clone this repo
-[x] incorporate the comments box into your React app
-[x] Instrunction see below:
+* [x] Clone this repo
+* [x] Incorporate the comments box into your React app
+* [x] Instruction see below:
 
 ### Instruction
 
